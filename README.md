@@ -208,6 +208,4 @@ If you find this useful, please give it a ⭐ on GitHub!
 
 ---
 
-**Built with ❤️ for Karnataka's steel industry**
-
 **Status**: ✅ Production Ready | 🚀 Demo Live
